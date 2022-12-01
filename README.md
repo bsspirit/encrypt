@@ -1,4 +1,4 @@
-# R语言中的密码学
+# R语言中的密码学 openssl + R
 
 R语言中的编码和解码，http://blog.fens.me/r-encode-decode/
 
