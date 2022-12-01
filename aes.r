@@ -1,3 +1,8 @@
+##############################
+# R语言进行AES对称加密
+# http://blog.fens.me/r-crypto-aes/
+##############################
+
 
 setwd("C:/work/R/encrypt")
 

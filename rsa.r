@@ -1,3 +1,9 @@
+##############################
+# R语言进行非对称加密RSA
+# http://blog.fens.me/r-crypto-openssl-rsa/
+##############################
+
+
 setwd("C:/work/R/encrypt")
 
 value<-"abc=!@#$%^&*()_+abc试试中文"
@@ -7,7 +13,6 @@ value<-"abc=!@#$%^&*()_+abc试试中文"
 library(openssl)
 openssl_config()
 fips_mode()
-
 
 
 ###########################################

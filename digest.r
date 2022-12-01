@@ -1,3 +1,8 @@
+##############################
+# R语言创建哈希摘要digest
+# http://blog.fens.me/r-crypto-hash-digest/
+##############################
+
 
 setwd("C:/work/R/encrypt")
 
