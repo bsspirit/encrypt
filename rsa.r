@@ -67,8 +67,8 @@ signature_verify(md, sig, hash = NULL, pubkey = pubkey)
 
 # ECDSA example
 data <- serialize(iris, NULL)
-key <- ec_keygen()
-pubkey <- key$pubkey
+key <- ec_keygen();key
+pubkey <- key$pubkey;pubkey
 sig <- signature_create(data, sha256, key = key)
 signature_verify(data, sig, sha256, pubkey = pubkey)
 

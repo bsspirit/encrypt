@@ -1,8 +1,8 @@
 ################################
 # 用R语言配合openssl命令行生成和管理x509证书
 # http://blog.fens.me/r-crypto-openssl-cert/
+# shell代码：https://github.com/bsspirit/encrypt/blob/master/cert.sh
 #################################
-
 
 setwd("C:/work/R/encrypt")
 
