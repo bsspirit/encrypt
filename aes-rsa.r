@@ -1,6 +1,6 @@
 ##############################
 # 用R语言实现RSA+AES混合加密
-# https://log.fens.me/r-crypto-aes-rsa/
+# http://blog.fens.me/r-crypto-aes-rsa/
 ##############################
 
 
